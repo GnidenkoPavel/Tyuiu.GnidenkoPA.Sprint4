@@ -3,5 +3,10 @@
     <Project Path="Tyuiu.GnidenkoPA.Sprint4.Task0.V15.Lib/Tyuiu.GnidenkoPA.Sprint4.Task0.V15.Lib.csproj" />
     <Project Path="Tyuiu.GnidenkoPA.Sprint4.Task0.V15.Test/Tyuiu.GnidenkoPA.Sprint4.Task0.V15.Test.csproj" />
   </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.GnidenkoPA.Sprint4.Task1.V25.Lib/Tyuiu.GnidenkoPA.Sprint4.Task1.V25.Lib.csproj" />
+    <Project Path="Tyuiu.GnidenkoPA.Sprint4.Task1.V25.Test/Tyuiu.GnidenkoPA.Sprint4.Task1.V25.Test.csproj" />
+    <Project Path="Tyuiu.GnidenkoPA.Sprint4.Task1.V25/Tyuiu.GnidenkoPA.Sprint4.Task1.V25.csproj" />
+  </Folder>
   <Project Path="Tyuiu.GnidenkoPA.Sprint4.Task0.V15/Tyuiu.GnidenkoPA.Sprint4.Task0.V15.csproj" />
 </Solution>

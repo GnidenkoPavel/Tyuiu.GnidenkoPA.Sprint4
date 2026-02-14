@@ -8,5 +8,10 @@
     <Project Path="Tyuiu.GnidenkoPA.Sprint4.Task1.V25.Test/Tyuiu.GnidenkoPA.Sprint4.Task1.V25.Test.csproj" />
     <Project Path="Tyuiu.GnidenkoPA.Sprint4.Task1.V25/Tyuiu.GnidenkoPA.Sprint4.Task1.V25.csproj" />
   </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.GnidenkoPA.Sprint4.Task2.V21.Lib/Tyuiu.GnidenkoPA.Sprint4.Task2.V21.Lib.csproj" />
+    <Project Path="Tyuiu.GnidenkoPA.Sprint4.Task2.V21.Test/Tyuiu.GnidenkoPA.Sprint4.Task2.V21.Test.csproj" />
+    <Project Path="Tyuiu.GnidenkoPA.Sprint4.Task2.V21/Tyuiu.GnidenkoPA.Sprint4.Task2.V21.csproj" />
+  </Folder>
   <Project Path="Tyuiu.GnidenkoPA.Sprint4.Task0.V15/Tyuiu.GnidenkoPA.Sprint4.Task0.V15.csproj" />
 </Solution>
